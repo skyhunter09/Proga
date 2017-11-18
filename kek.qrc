@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ololo.jpg</file>
+        <file>3d-шестиугольники.jpg</file>
+    </qresource>
+</RCC>
